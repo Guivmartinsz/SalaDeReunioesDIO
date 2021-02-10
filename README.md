@@ -1,0 +1,1 @@
+# Desafio prático de criar um gerenciador de salas de reuniões utilizando Java e Angular, realizado para a plataforma [Digital Innovation One.](https://web.digitalinnovation.one/track/everis-fullstack-developer?tab=path)
